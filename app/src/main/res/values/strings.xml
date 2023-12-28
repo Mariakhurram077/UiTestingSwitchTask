@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UiTestingTask</string>
+    <string name="use_24_hours_clock">Use 24 hours clock</string>
+    <string name="general">General</string>
+    <string name="settings">Settings</string>
+    <string name="privacy">Privacy</string>
+    <string name="hide_my_age">Hide my age</string>
+    <string name="hide_my_profile_picture">Hide my profile picture</string>
+    <string name="notifications">Notifications</string>
+    <string name="get_notified_each_time_you_receive_n_a_review">Get notified each time you receive\n a review</string>
+</resources>
